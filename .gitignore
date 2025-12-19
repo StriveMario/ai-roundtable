@@ -69,6 +69,7 @@ test-results/
 *.tsbuildinfo
 
 .claude
+.playwright-mcp
 
 # Package manager locks (keep one, ignore others if not used)
 # Uncomment the ones you don't use:
